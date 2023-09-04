@@ -1,1 +1,3 @@
-### Small JS project -----> Mapty!
+## 🚵‍♂️ Small JS project -----> Mapty! Map your workouts!!!🏃🏻‍♀️
+
+### Check it out here:
